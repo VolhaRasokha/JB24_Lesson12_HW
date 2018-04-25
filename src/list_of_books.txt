@@ -1,0 +1,8 @@
+Head First Java 2nd Edition,300,Kathy Sierra,2004.04.02
+Head First Java 1st Edition,250,Kathy Sierra,2001.04.02
+Head First Java 3st Edition,300,Kathy Sierra,2017.05.03
+Marcel and the Shakespeare Letters,50,Stephen Rabley,1999.05.03
+The Adventures of Tom Sawyer,450,Mark Twain,1999.05.03
+Robin Hood,10,Sally M. Stockton,2018.05.03
+Freckles,5,Andrew Mathews,2014.05.03
+Ghost of Geenny Castle,42,John Escott,2017.05.03
